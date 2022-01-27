@@ -1,7 +1,6 @@
 const ContactUsForm = () => {
   const userContactUs = (event) => {
     event.preventDefault(); // Stop redirecting page
-    // Add form logic here
   };
 
   return (

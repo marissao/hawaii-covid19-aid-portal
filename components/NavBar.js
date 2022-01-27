@@ -12,6 +12,9 @@ const NavBar = () => {
       <Link href='/contact-us'>
         <a>Contact Us</a>
       </Link>
+      <Link href='/eligibility'>
+        <a>Eligibility</a>
+      </Link>
     </nav>
   );
 };
