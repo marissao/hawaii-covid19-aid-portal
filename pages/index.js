@@ -1,7 +1,3 @@
-import NavBar from "../components/NavBar";
-import Footer from "../components/Footer";
-import styles from "../styles/Home.module.css";
-
 export default function Home() {
   return (
     <div>

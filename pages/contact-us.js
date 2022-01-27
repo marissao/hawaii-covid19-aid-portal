@@ -1,3 +1,6 @@
+import ContactUsForm from "../components/forms/ContactUs";
+import LoginForm from "../components/forms/Login";
+
 const ContactUs = () => {
   return (
     <div>
@@ -8,6 +11,7 @@ const ContactUs = () => {
         eius consequatur tempore, fugiat provident similique sit ex. Veniam
         ipsum explicabo cumque?
       </p>
+      <ContactUsForm />
     </div>
   );
 };
